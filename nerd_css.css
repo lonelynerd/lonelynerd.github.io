@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#header_icon{
+    margin-top: 100px; 
+    margin-bottom: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#title{
+    font-size: 170%;
+    font-weight: lighter;
+}
+#introtext{
+    font-size: 110%;
+    margin: 50px 17.5%;
+    margin-bottom: 100px;
+    text-align: justify;
+    line-height: 150%;
+}
+#github_footer{
+    text-align: center;
+    font-size: 75%;
+    color: #303030;
+}
+#box_gonta{
+    margin: 50px 17.5%;
+    padding:20px 30px;
+    background-image: url("bg/gonta_bg.png");
+    border-radius: 30px;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    border-bottom: solid 7.5px #7d8aff;
+    font-size: 120%;
+}
+#box_ruminesu{
+    margin: 50px 17.5%;
+    padding:20px 30px;
+    background-image: url("bg/ruminesu_bg.png");
+    border-radius: 30px;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    border-bottom: solid 7.5px #fcba68;
+    font-size: 120%;
+}
+#box_website{
+    margin: 50px 17.5%;
+    padding:20px 30px;
+    background-image: url("bg/website_bg.png");
+    border-radius: 30px;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    border-bottom: solid 7.5px #ff7dee;
+    font-size: 120%;
+}
+#box_title{
+    font-weight: lighter;
+    font-size: 200%;
+}
+#boxes{
+    padding: 0px 10px;
+}
+#button{
+    position: relative;
+    float: right;
+}
+#unsplash{
+    font-size: 80%;
+}
