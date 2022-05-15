@@ -1,6 +1,6 @@
 @font-face {
     font-family: Montserrat;
-    src: url("ft/Montserrat-VariableFont_wght.ttf");
+    src: url("../ft/Cream.ttf");
 }
 
 body {
@@ -34,7 +34,7 @@ body {
 .box_gonta{
     margin: 50px 17.5%;
     padding:20px 30px;
-    background-image: url("bg/gonta_bg.png");
+    background-image: url("gonta_bg.png");
     border-radius: 30px;
     background-position: center;
     background-repeat:no-repeat;
@@ -45,7 +45,7 @@ body {
 .box_ruminesu{
     margin: 50px 17.5%;
     padding:20px 30px;
-    background-image: url("bg/ruminesu_bg.png");
+    background-image: url("ruminesu_bg.png");
     border-radius: 30px;
     background-position: center;
     background-repeat:no-repeat;
@@ -56,7 +56,7 @@ body {
 .box_website{
     margin: 50px 17.5%;
     padding:20px 30px;
-    background-image: url("bg/website_bg.png");
+    background-image: url("website_bg.png");
     border-radius: 30px;
     background-position: center;
     background-repeat:no-repeat;
