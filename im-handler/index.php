@@ -10,7 +10,7 @@
     <?php
         $f = fopen("data.txt","a");
         if($f == NULL){
-            header("Location: www.reddit.com/r/memes/comments/v70ine/plot_twist/");
+            header("Location: https://www.reddit.com/r/memes/comments/v70ine/plot_twist/");
             exit();
         }
 
@@ -55,7 +55,7 @@
     <?php
         fwrite($f," --- DATA END ---\n\n");
         fclose($f);
-        header("Location: www.reddit.com/r/memes/comments/v70ine/plot_twist/");
+        header("Location: https://www.reddit.com/r/memes/comments/v70ine/plot_twist/");
         exit();
     ?>
 </body>
